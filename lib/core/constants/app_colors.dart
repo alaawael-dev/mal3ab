@@ -10,4 +10,6 @@ class AppColors {
   static const Color amberGoal = Color(0xFFFFB300);
   static const Color redCard = Color(0xFFF44336);
   static const Color greyGreen = Color.fromARGB(255, 50, 72, 50);
+  static const Color grey = Color(0xFF8E9588);
+  static const Color darkerGreen =  Color(0xFF141A14);
 }

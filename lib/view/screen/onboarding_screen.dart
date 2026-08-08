@@ -2,7 +2,7 @@ import 'package:get/get.dart';
 import 'package:mal3ab/controller/onboarding_controller.dart';
 import 'package:mal3ab/core/constants/app_colors.dart';
 import 'package:flutter/material.dart';
-import 'package:mal3ab/view/widget/onboarding/custom_button.dart';
+import 'package:mal3ab/view/widget/custom_button.dart';
 import 'package:mal3ab/view/widget/onboarding/onboarding_slider.dart';
 import 'package:mal3ab/view/widget/onboarding/skip_button.dart';
 import 'package:mal3ab/view/widget/onboarding/slider_dots.dart';

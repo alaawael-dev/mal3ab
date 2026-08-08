@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:mal3ab/core/constants/app_colors.dart';
 import 'package:mal3ab/core/constants/app_text_themes.dart';
-import 'package:mal3ab/view/widget/onboarding/custom_button.dart';
+import 'package:mal3ab/view/widget/custom_button.dart';
 
 class LangBottom extends StatelessWidget {
   final String buttonText;

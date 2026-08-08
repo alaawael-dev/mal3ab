@@ -30,12 +30,11 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         brightness: Brightness.dark,
         scaffoldBackgroundColor: AppColors.turfDark,
-        fontFamily: AppFonts.barlowCondensed, // fallback default
+        fontFamily: AppFonts.barlowCondensed,
       ),
       title: 'Flutter Demo',
       getPages: routes,
-      initialRoute: AppRoutes.languagePage,
-      
+      initialRoute: "/",
     );
   }
 }

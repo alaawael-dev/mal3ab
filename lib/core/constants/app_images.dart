@@ -10,4 +10,6 @@ class AppImages {
   static const String onboardingTwo = "$onboarding/onboarding-two.png";
   static const String onboardingThree = "$onboarding/onboarding-three.png";
 
+  static const String lockSvg = "assets/images/svg/lock.svg";
+
 }
